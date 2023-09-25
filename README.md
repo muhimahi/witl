@@ -3,7 +3,7 @@ Web Info Tech Ltd. Official Static Website
 <!-- Hero -->
 <p align="center">
   <a href="https://webinfotechltd.com/" target="_blank" rel="noopener">
-    <img style="border-radius: 15px;" width="600" src="https://github.com/muhimahi/witl/assets/63067849/058aa12e-471e-452e-9538-c9ddc4010489" title="webinfotechltd.com" 
+    <img width="600" src="https://github.com/muhimahi/witl/assets/63067849/058aa12e-471e-452e-9538-c9ddc4010489" title="webinfotechltd.com" 
          alt="webinfotechltd.com">
   </a>
 </p>
