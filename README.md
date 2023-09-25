@@ -17,7 +17,7 @@ Web Info Tech Ltd. Official Static Website
   </a>
 <!-- Header Text -->
 <div align="center">
-  <h3><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Fellow being! This Site is build by WITL</h3> 
+  <h3>👋 Fellow being! This Site is build by WITL</h3> 
   
   WITL is a full-service digital marketing agency devoted to helping businesses meet the highest potential by leveraging integrated solutions and leading talents.
 </div>
